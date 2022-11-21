@@ -5,4 +5,4 @@ let fruits = new Map([
   ]);
   for (const [key, value] of fruits) {
     console.log(`${key} = ${value}`);
-  }
+  } 
